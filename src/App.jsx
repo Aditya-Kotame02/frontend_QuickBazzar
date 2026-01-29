@@ -6,8 +6,8 @@ import Navbar from "./components/NavBar"
 import RoleRoute from "./components/RoleRoute"
 
 /* Auth */
-import Signin from "./pages/signin"
-import Signup from "./pages/signup"
+import Signin from "./pages/Signin"
+import Signup from "./pages/Signup"
 import Unauthorized from "./pages/Unauthorized"
 
 /* Admin */
